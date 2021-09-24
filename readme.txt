@@ -1,5 +1,7 @@
 TIC TAC TOE
 
+A GUI enabled, multi-player, network facilitated Tic-Tac-Toe Game in Java using Object Oriented Programming and multi-threading.
+
 Instructions to start the game:
 
 -Open command line terminal and navigate to this folder's location.
